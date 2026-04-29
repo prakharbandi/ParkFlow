@@ -19,6 +19,3 @@ Who has access: Anyone
 
 String GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL";
 
-## Example Test URL
-
-YOUR_SCRIPT_URL?uid=AB%20CD%20EF%2012&name=Demo%20User&vehicle=MP00AB0001&action=ENTRY&email=user@example.com
